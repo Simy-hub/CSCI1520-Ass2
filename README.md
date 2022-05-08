@@ -1,2 +1,1 @@
-# CSCI1520-Ass2
-Distance Measurement
+# CSCI1520-Ass

@@ -1,6 +1,7 @@
 //assig5.cpp
 /*CSCI1520
  *Assignment: 5
+ */
 
 #include <iostream>
 #include <iomanip>   

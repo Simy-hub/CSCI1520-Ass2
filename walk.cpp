@@ -1,9 +1,6 @@
 //assig6.cpp
 /*CSCI1520
  *Assignment: 6
- *Student ID: 1155157111
- *Name      : Jinmin Chen
- *Email     :1155157111@link.cuhk.edu.hk
  */
 
 #include <iostream>

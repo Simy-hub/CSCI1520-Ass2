@@ -2,9 +2,6 @@
 /*CSCI1520
  *
  *Assignment: 3
- *Student ID: 1155157111
- *Name      : Jinmin Chen
- *Email     : 1155157111@link.cuhk.edu.hk
  */
 #include<iostream>
 using namespace std;
